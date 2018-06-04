@@ -1,0 +1,2134 @@
+[{
+  "id": "adobe illustrator",
+  "aliases": {
+    "ar": ["إليستريتور", "أدوبي إليستريتور"],
+    "en": ["Adobe Illustrator", "Illustrator"],
+    "fr": ["Illustrator", "Illustrator CC", "Illustrator 2015", "Illustrator 2016"],
+    "th": ["อิลลัสเตรเตอร์", "อะโดบี อิลลัสเตรเตอร์"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "A vector edition software, typically used by artists and graphic designers to create vector drawings, icons and illustrations.",
+    "fr": "Logiciel d'édition de vecteurs, typiquement utilisé par les artistes et designers pour créer des dessins vectoriels, des icônes et des illustrations."
+  },
+  "domain": "graphic design",
+  "icon": "invert_colors",
+  "keywords": ["graphic design", "web design", "photography", "photoshop", "vector design", "vector graphics"],
+  "label": {
+    "ar": "أدوبي إليستريتور",
+    "en": "Adobe Illustrator",
+    "fr": "Adobe Illustrator",
+    "th": "อะโดบี อิลลัสเตรเตอร์"
+  },
+  "min_nb_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "أدوبي إليس",
+    "en": "Illustrator",
+    "fr": "Illustrator",
+    "th": "อิลลัสเตรเตอร์"
+  },
+  "wikipedia_id": {
+    "ar": "أدوبي_إليستريتور",
+    "en": "Adobe_Illustrator",
+    "fr": "Adobe_Illustrator",
+    "th": "อะโดบี_อิลลัสเตรเตอร์"
+  }
+}, {
+  "id": "adobe photoshop",
+  "aliases": {
+    "ar": ["أدوبي فوتوشوب", "فوتوشوب"],
+    "en": ["Adobe Photoshop", "Photoshop"],
+    "fr": ["Photoshop", "Photoshop CC", "Photoshop 2015", "Photoshop 2016"],
+    "th": ["โฟโตชอป", "อะโดบี โฟโตชอป"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "A famous photo editing program, also used by graphic designers.",
+    "fr": "Célèbre logiciel d'édition et de montage photo, également utilisé pour le graphisme."
+  },
+  "domain": "graphic design",
+  "icon": "invert_colors",
+  "keywords": ["graphic design", "web design", "photography", "photoshop"],
+  "label": {
+    "ar": "أدوبي فوتوشوب",
+    "en": "Adobe Photoshop",
+    "fr": "Adobe Photoshop",
+    "th": "อะโดบี โฟโตชอป"
+  },
+  "min_nb_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "فوتوشوب",
+    "en": "Photoshop",
+    "fr": "Photoshop",
+    "th": "โฟโตชอป"
+  },
+  "wikipedia_id": {
+    "ar": "أدوبي_فوتوشوب",
+    "en": "Adobe_Photoshop",
+    "fr": "Adobe_Photoshop",
+    "th": "อะโดบี_โฟโตชอป"
+  }
+}, {
+  "id": "android development",
+  "aliases": {
+    "en": ["Android", "Android dev", "Android mobile", "Android OS", "Android development", "Android developer", "Android plateform"],
+    "fr": ["développement Android", "développement d'applications android", "Développement d'application android", "développeur Android", "Développeur Android"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Android development represents all the software development skills necessary to create a mobile application that can run on an Android operating system",
+    "fr": "Le développment d'application Android représente l'ensemble des techniques nécessaires pour développer une application mobile pour systèmes d'exploitation Android"
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["mobile"],
+  "label": {
+    "en": "Android development",
+    "fr": "Développement Android"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Développeur Android",
+    "fr": "Android dev"
+  }
+}, {
+  "id": "angular js",
+  "aliases": {
+    "en": ["Angular", "AngularJS", "Angular2", "Angular 2", "Angular JS", "Angular 3", "AngularJS 2", "Angular JS 2"],
+    "fr": ["développement avec angular", "développement avec angularjs", "développement angularjs", "développeur angular", "développeur angularjs"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "A web development framework",
+    "fr": "Framework de développement pour interfaces web"
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["javascript", "web development"],
+  "label": {
+    "en": "Angular",
+    "fr": "Angular"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Angular",
+    "fr": "Angular"
+  }
+}, {
+  "id": "apache hbase",
+  "aliases": {
+    "en": ["HBase", "Apache HBase", "HBase™", "Apache HBase™"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "An open-source non-relational distributed database.",
+    "fr": "Base de données libre, non relationnelle et distribuée."
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["map reduce"],
+  "label": {
+    "en": "Apache Hbase",
+    "fr": "Apache Hbase"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Hbase",
+    "fr": "Hbase"
+  },
+  "wikipedia_id": {
+    "en": "Apache_Hbase",
+    "fr": "Apache_Hbase"
+  }
+}, {
+  "id": "apache spark",
+  "aliases": {
+    "en": ["ApacheSpark", "Spark", "Apache Spark", "Spark™", "Apache Spark™"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Apache Spark™ is a distributed, fast and general engine for large-scale data processing, with built-in modules for streaming, SQL, machine learning and graph processing.",
+    "fr": "Apache Spark™ est un moteur de traitement de données à grande échelle, rapide et distribué."
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["big data", "map reduce", "scala", "hbase", "hadoop", "cassandra"],
+  "label": {
+    "en": "Apache Spark",
+    "fr": "Apache Spark"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Spark",
+    "fr": "Spark"
+  }
+}, {
+  "id": "backend development",
+  "aliases": {
+    "en": ["Server Side Developer", "Server-side Developer", "API Developer", "Back-End Developer", "Back-End Development", "Back End Developer", "Backend Developer", "Web Backend", "Backend Dev", "Backend Development"],
+    "fr": ["développement côté serveur", "développement server-side", "développement backend", "développeur backend"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Backend development represents all the hidden part of an application (code, rules, databases, apis), by opposition to the Frontend, which is the user interface visible by the end-user.",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["javascript", "web development"],
+  "label": {
+    "en": "Backend development",
+    "fr": "Backend development"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Backend",
+    "fr": "Backend"
+  }
+}, {
+  "id": "bagging",
+  "aliases": {
+    "en": ["Bagging", "Bootstrap aggregating"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science"],
+  "label": {
+    "en": "Bootstrap aggregating",
+    "fr": "Bootstrap aggregating"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Bagging",
+    "fr": "Bagging"
+  }
+}, {
+  "id": "bayesian networks",
+  "aliases": {
+    "en": ["Bayesian networks", "Bayesian network", "Bayes network", "Bayes network", "bayesnet", "bayesiannetwork", "Bayes net", "Bayes nets"],
+    "fr": ["Réseau bayésien", "Réseaux bayésiens", "réseau de Bayes", "réseaux de Bayes"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "datamining", "machine learning", "modelling", "statistics", "probabilities", "bayes", "bayesian", "Bayesian networks"],
+  "label": {
+    "en": "Bayesian networks",
+    "fr": "Réseaux Bayésiens"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Bayesian networks",
+    "fr": "Réseaux Bayésiens"
+  }
+}, {
+  "id": "boosting",
+  "aliases": {
+    "en": ["Boosting"],
+    "fr": ["Boosting"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science"],
+  "label": {
+    "en": "Boosting",
+    "fr": "Boosting"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Boosting",
+    "fr": "Boosting"
+  }
+}, {
+  "id": "business management",
+  "aliases": {
+    "en": ["responsible for staff", "responsible for a team", "a team of 15", "a team of 20", "a team of 30", "a team of 40", "a team of 50", "a team of 100", "a team of 200", "staff accountability", "oversee training", "oversee hiring", "oversee staff", "oversee team", "vendor relations", "profit and loss management", "oversee employees", "assistant manager", "managing from office", "full office operations", "provided office support", "accountable for training", "accountable for guests", "accountable for sales", "accountable for hiring", "staff training", "business development", "operations management", "personnel leadership", "operational streamlining", "boosted morale", "labor relations issues", "managed staff", "agilysys", "workforce management"],
+    "fr": ["responsable de l'équipe", "responsable d'une équipe", "chargé de l'équipe", "chargé d'une équipe", "une équipe de 15", "une équipe de 20", "une équipe de 30", "une équipe de 40", "une équipe de 50", "une équipe de 100", "une équipe de 200", "responsabilité de l'équipe", "supervisé la formation", "superviser la formation", "supervisé les entretiens", "participé au recrutement", "supervisé le recrutement", "supervisé l'équipe", "supervisé les employés", "géré le recrutement", "gestion de l'équipe", "gestion du recrutement", "gérer le recrutement", "supervisé les opérations", "superviser les opérations", "gestion d'une équipe", "gestion des employés"]
+  },
+  "case_sensitive": false,
+  "domain": "management",
+  "icon": "supervisor_account",
+  "keywords": ["management", "office", "organization", "business management"],
+  "label": {
+    "en": "Business management",
+    "fr": "Gestion d'entreprise"
+  },
+  "minimum_hits_required": 4,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Business management",
+    "fr": "Gestion d'entreprise"
+  }
+}, {
+  "id": "cascading style sheets",
+  "aliases": {
+    "ar": ["كاسكادينج ستايل شيت", "سي إس إس"],
+    "en": ["CSS3", "CSS 3", "CSS4", "CSS 4", "CSS5", "CSS5", "Cascading Style Sheet", "Cascading Style Sheets"],
+    "fr": ["feuille de style en cascade", "feuille de style en cascades", "feuille de styles en cascades", "feuille de styles en cascade", "feuilles de style en cascade", "feuilles de style en cascades", "feuilles de styles en cascade", "feuilles de styles en cascades"],
+    "he": ["גיליונות סגנון מדורגים"],
+    "th": ["แคสเคดดิงสไตล์ชีตส์"],
+    "zh": ["层叠样式表"]
+  },
+  "description": {
+    "en": "",
+    "fr": "Langage informatique qui décrit la présentation des documents HTML.",
+    "tr": "Cascading Style Sheets (Basamaklı Stil Şablonları ya da Basamaklı Biçim Sayfaları, bilinen kısa adıyla CSS), HTML'e ek olarak metin ve format biçimlendirme alanında fazladan olanaklar sunan bir Web teknolojisidir (Vikipedi, özgür ansiklopedi)"
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["programming", "programming language", "development", "software development"],
+  "label": {
+    "ar": "كاسكادينج ستايل شيت",
+    "en": "Cascading Style Sheets",
+    "fr": "Feuilles de style en cascade",
+    "he": "גיליונות סגנון מדורגים",
+    "th": "แคสเคดดิงสไตล์ชีตส์",
+    "zh": "层叠样式表"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "سي إس إس",
+    "en": "CSS",
+    "fr": "CSS",
+    "th": "CSS"
+  },
+  "wikipedia_id": {
+    "ar": "كاسكادينج_ستايل_شيت",
+    "en": "Cascading_Style_Sheets",
+    "fr": "Feuilles_de_style_en_cascade",
+    "he": "גיליונות_סגנון_מדורגים",
+    "th": "แคสเคดดิงสไตล์ชีตส์",
+    "tr": "Cascading_Style_Sheets",
+    "zh": "层叠样式表"
+  }
+}, {
+  "id": "classification and regression tree",
+  "aliases": {
+    "en": ["CART","Classification And Regression Tree", "Classification And Regression Trees", "CARTS", "carttree", "CART Tree", "CART Trees"],
+    "fr": ["arbre de classification", "Arbre de classification et de régression", "Arbres CARTS", "Arbres CART", "Arbre CART"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Classification And Regression Tree (CART)",
+    "fr": "Arbre de classification et de régression, de l'anglais Classification And Regression Tree (CART)."
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "regression", "classification", "decision tree"],
+  "label": {
+    "en": "CART",
+    "fr": "CART"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "CART",
+    "fr": "CART"
+  }
+}, {
+  "id": "clustering",
+  "aliases": {
+    "en": ["clustering", "cluster detection", "cluster extraction"],
+    "fr": ["détection de clusters", "détection de groupes", "détection de clusters", "extraction de cluster", "extraction de clusters"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Clustering is an umbrella term to describe the statistical techniques of classification and similar items detection in a dataset.",
+    "fr": "Le clustering (détection de clusters) est le terme générique pour décrire les méthodes mathématiques de regroupement de données similaires au sein d'un jeu de données."
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "machine learning", "clustering"],
+  "label": {
+    "en": "Clustering",
+    "fr": "Clustering"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Clustering",
+    "fr": "Clustering"
+  }
+}, {
+  "id": "complex network analysis",
+  "aliases": {
+    "en": ["Complex network analysis", "Complex networks analysis", "Multi-level network analysis"],
+    "fr": ["analyse de réseaux complexes", "analyse des réseaux complexes"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "social network analysis", "sna", "graph analysis", "network analysis", "complex network analyis", "complex networks", "social networks"],
+  "label": {
+    "en": "Complex network analysis",
+    "fr": "Complex network analysis"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Complex network analysis",
+    "fr": "Complex network analysis"
+  }
+}, {
+  "id": "copulas",
+  "aliases": {
+    "en": ["copula", "copulas"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "A copula is a multivariate probability distribution, for which the marginal probability distribution of each variable is uniform. It is used in statistics to describe the dependence between random variables.",
+    "fr": "Copula."
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "mathematics", "marginal distribution", "random variable"],
+  "label": {
+    "en": "Copula (probability theory)",
+    "fr": "Copula (probabilités)"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Copula",
+    "fr": "Copula"
+  },
+  "wikipedia_id": {
+    "en": "Copula_(probability_theory)"
+  }
+}, {
+  "id": "correlation clustering",
+  "aliases": {
+    "en": ["correlation clustering", "correlation cluster", "correlation clusters", "colleration editing"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Correlation clustering provides a method for clustering a set of objects into the optimum number of clusters without specifying that number in advance (Becker, Hila, \"A Survey of Correlation Clustering\", 5 May 2005)",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "clustering", "cluster analysis"],
+  "label": {
+    "en": "Correlation clustering",
+    "fr": "Correlation clustering"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Correlation clustering",
+    "fr": "Correlation clustering"
+  },
+  "wikipedia_id": {
+    "en": "Correlation_clustering"
+  }
+}, {
+  "id": "correspondence analysis",
+  "aliases": {
+    "en": ["correspondence analysis"],
+    "fr": ["analyse factorielle des correspondances", "AFC"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA"],
+  "label": {
+    "en": "Correspondence analysis",
+    "fr": "Analyse factorielle des correspondances"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "CA (stats)",
+    "fr": "AFC (stats)"
+  },
+  "wikipedia_id": {
+    "en": "Correspondence_analysis",
+    "fr": "Analyse_factorielle_des_correspondances"
+  }
+}, {
+  "id": "data modeling",
+  "aliases": {
+    "en": ["datamodeling", "data modeling", "model development"],
+    "fr": ["modélisation de données", "développement d'un modèle", "conception d'un modèle"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "problem modeling", "data modeling"],
+  "label": {
+    "en": "Data modeling",
+    "fr": "Modélisation de données"
+  },
+  "label": "Data modeling",
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Data modeling",
+    "fr": "Modélisation de données"
+  }
+}, {
+  "id": "deep learning",
+  "aliases": {
+    "en": ["deeplearning", "deep learning", "deep structured learning", "hierarchical learning"],
+    "fr": ["apprentissage profond", "apprentissage multi-couches", "apprentissage hiérarchique"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Deep Learning is the umbrella term to describe machine learning techniques based on hiearchical models, such as multilayer neural networks.",
+    "fr": "Le Deep Learning (ou apprentissage profond) regroupe l'ensemble des méthodes d'apprentissage automtique basées sur des modèles hiérarchiques, tels que les réseaux de neurones multi-couches."
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "machine learning", "neural networks"],
+  "label": {
+    "en": "Deep Learning",
+    "fr": "Deep Learning"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "wikipedia_id": {
+    "en": "Deep_learning"
+  }
+}, {
+  "id": "dynamic mixture of distribution",
+  "aliases": {
+    "en": ["distribution mixture", "dynamic mixture of distribution", "dynamic mixture of distributions"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ["dynamic mixture of distributions"]
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "risk analysis", "dynamic mixture"],
+  "label": {
+    "en": ["dynamic mixture of distributions"]
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": ["Distribution mixture"]
+  }
+}, {
+  "id": "extreme value theory",
+  "aliases": {
+    "en": [
+      "Extreme value theory",
+      "Extreme values theory",
+      "ExtremeValueTheory"
+    ]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ["Extreme value theory"]
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "risk analysis", "extreme value theory"],
+  "label": {
+    "en": "Extreme value theory"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": ["Extreme value theory"]
+  }
+}, {
+  "id": "factor analysis for mixed data",
+  "aliases": {
+    "en": ["factor analysis for mixed data", "FAMD"],
+    "fr": ["analyse factorielle de données mixtes", "AFDM"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA", "factor analysis"],
+  "label": {
+    "en": "Factor analysis for mixed data",
+    "fr": "Analyse factorielle de données mixtes"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "FAMD (stats)",
+    "fr": "AFDM (stats)"
+  },
+  "wikipedia_id": {
+    "fr": "Analyse_factorielle_de_données_mixtes"
+  }
+}, {
+  "id": "frontend development",
+  "aliases": {
+    "en": ["Web Developer", "Web Development", "Frontend Dev", "Front-End Developer", "Front-End Web Developer", "Front-End Development", "Front-End Web Development", "Front End Developer", "Frontend Developer", "Frontend Development"],
+    "fr": ["développeur web", "développement web", "développeur frontend", "développeur front end", "développement frontend", "développement front end"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Web frontend development represents all the visible part of an application (the user interface), by opposition to the Backend, which is invisible to the user (the code, rules, databases or even thirdparty services necessary to the application).",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["webdev", "webdevelopment", "javascript", "web development"],
+  "label": {
+    "en": "Web developement",
+    "fr": "Développement web"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Frontend",
+    "fr": "Frontend"
+  }
+}, {
+  "id": "geometric data analysis",
+  "aliases": {
+    "en": ["Geometric data analysis", "Geometrical analysis"],
+    "fr": ["Analyse de la géométrie", "Analyse des données géométriques", "Analysis géométrique"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "shape analysis"],
+  "label": {
+    "en": "Geometric data analysis",
+    "fr": "Geometric data analysis"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Geometric analysis",
+    "fr": "Analyse gémétrique"
+  },
+  "wikipedia_id": {
+    "en": "Geometric_data_analysis"
+  }
+}, {
+  "id": "google analytics",
+  "aliases": {
+    "en": ["GoogleAnalytics", "Google Analytic", "Google Analytics"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Google Analytics",
+    "fr": "Google Analytics"
+  },
+  "domain": "marketing",
+  "icon": "developer_board",
+  "keywords": ["analytics", "search engine optimization", "web marketing"],
+  "label": {
+    "en": "Google Analytics",
+    "fr": "Google Analytics"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Google Analytics",
+    "fr": "Google Analytics"
+  },
+  "wikipedia_id": {
+    "en": "Google_Analytics",
+    "fr": "Google_Analytics"
+  }
+}, {
+  "id": "graph analysis",
+  "aliases": {
+    "en": ["Graph analysis"],
+    "fr": ["Graph analysis"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "social network analysis", "sna", "graph mining"],
+  "label": {
+    "en": "Graph analysis",
+    "fr": "Graph analysis"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Graph analysis",
+    "fr": "Graph analysis"
+  }
+}, {
+  "id": "graph mining",
+  "aliases": {
+    "en": ["Graph mining"],
+    "fr": ["Graph mining"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "social network analysis", "sna", "graph analysis"],
+  "label": {
+    "en": "Graph mining",
+    "fr": "Graph mining"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Graph mining",
+    "fr": "Graph mining"
+  }
+}, {
+  "id": "inductive functionnal programming",
+  "aliases": {
+    "en": ["Inductive Functional Programming"],
+    "fr": ["Programmation Fonctionnelle Inductive"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "research",
+  "icon": "school",
+  "keywords": ["automatic programming", "logic programming", "inductive programming", "inductive logic"],
+  "label": {
+    "en": "Inductive Functional Programming (IFP)",
+    "fr": "Programmation Fonctionnelle Inductive"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "IFP (logic)",
+    "fr": "IFP (logique)"
+  },
+  "wikipedia_id": {
+    "en": "Inductive_functional_programming"
+  }
+}, {
+  "id": "inductive programming",
+  "aliases": {
+    "en": ["inductive programming"],
+    "fr": ["programmation inductive"],
+    "ja": ["帰納プログラミング"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "research",
+  "icon": "school",
+  "keywords": ["inductive logic", "automatic programming", "logic programming"],
+  "label": {
+    "en": "Inductive Programming",
+    "fr": "Programmation Inductive",
+    "ja": "帰納プログラミング"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Inductive Prog.",
+    "fr": "Prog. Inductive"
+  },
+  "wikipedia_id": {
+    "en": "Inductive_programming"
+  }
+}, {
+  "id": "java",
+  "aliases": {
+    "ar": ["جافا"],
+    "en": ["Java Developer", "Java Development", "JDK 6", "JDK 7", "JVM", "Java/EE", "Java EE", "Java Oracle", "Oracle Java"],
+    "fr": ["Développement Java", "Développeur Java"],
+    "ko": ["자바"],
+    "th": ["ภาษาจาวา"]
+  },
+  "description": {
+    "en": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["programming", "programming language", "development", "software development"],
+  "label": {
+    "ar": "جافا",
+    "en": "Java",
+    "ko": "자바 (프로그래밍 언어)",
+    "th": "ภาษาจาวา"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "جافا",
+    "en": "Java",
+    "ko": "자바",
+    "th": "ภาษาจาวา"
+  },
+  "wikipedia_id": {
+    "en": "Java_(programming_language)",
+    "es": "Java (lenguaje de programación)",
+    "fr": "Java_(langage)",
+    "ko": "자바_(프로그래밍_언어)",
+    "th": "ภาษาจาวา"
+  }
+}, {
+  "id": "logic programming",
+  "aliases": {
+    "ar": ["برمجةمنطقية", "برمجة منطقية"],
+    "de": ["logische programmierung", "prädikative programmierung"],
+    "en": ["logic programming", "logicprogramming", "logic program", "logic programs"],
+    "es": ["programación lógica", "programaciónlógica"],
+    "fr": ["programmation logique", "programmationlogique"],
+    "he": ["תכנות לוגי", "תכנותלוגי"],
+    "it": ["programmazione logica", "programmazionelogica"],
+    "ja": ["論理プログラミング"],
+    "ko": ["논리형 프로그래밍", "논리형프로그래밍"],
+    "pt": ["programação lógica", "programaçãológica"],
+    "ru": ["Логическое_программирование"],
+    "sv": ["logikprogrammering"],
+    "th": ["การเขียนโปรแกรมเชิงตรรกะ"],
+    "tr": ["mantık programlama", "mantıkprogramlama", "mantıksalprogramlama", "mantıksal programlama"],
+    "vi": ["lập trình logic"],
+    "zh": ["邏輯編程"]
+  },
+  "description": {
+    "ar": "(Wikipedia) هي بمفهومها العام استعمال المنطق الرياضي من اجل برمجة الحاسب. يستعمل المنطق لغة تصريحية للتعبير عن المشكلة. خلاف ",
+    "de": "Programmierparadigma das auf der mathematischen Logik beruht. Anders als bei der imperativen Programmierung besteht ein Logik-Programm nicht aus einer Folge von Anweisungen, sondern aus einer Menge von Axiomen, welche hier als eine Ansammlung von Fakten oder Annahmen zu verstehen ist. (Wikipedia)",
+    "en": "",
+    "es": "Paradigma de programación dentro del paradigma de programación declarativa. El resto de los subparadigmas de programación dentro de la programación declarativa son: programación funcional, programación con restricciones, programas DSL (de dominio específico) e híbridos. La programación funcional se basa en el concepto de función (que no es más que una evolución de los predicados), de corte más matemático. La programación lógica gira en torno al concepto de predicado, o relación entre elementos. (Wikipedia)",
+    "fr": "",
+    "he": "(Wikipedia) תכנות לוגי הוא פרדיגמת תכנות השמה דגש על יחסים ככלי הפשטה עיקרי. יחסים הם כלי המאפשר לקשר בין ערכים שונים באמצעות עובדות המוגדרות מראש.",
+    "it": "Paradigma di programmazione che adotta la logica del primo ordine sia per rappresentare sia per elaborare l'informazione. (Wikipedia)",
+    "ja": "論理プログラミング（Logic Programming）とは、広い意味では、コンピュータプログラミングでの数理論理学の使用である。この観点での論理プログラミングは、ジョン・マッカーシー[1958]のadvice takerの提案にまでさかのぼることができる。 より一般的に受け入られている狭い意味での論理プログラミングは、述語論理式を非決定的なプログラミング言語とみなすもので、述語論理式は宣言的であると同時に手続き的にも解釈される。 (Wikipedia)",
+    "ko": "은 논리 문장을 이용하여 프로그램을 표현하고 계산을 수행하는 개념에 기반을 둔다 (Wikipedia)",
+    "ru": "Логи́ческое программи́рование — парадигма программирования, основанная на автоматическом доказательстве теорем, а также раздел дискретной математики, изучающий принципы логического вывода информации на основе заданных фактов и правил вывода. (Материал из Википедии)",
+    "sv": "Programmeringsparadigm baserat på att bevis av predikatlogiska satser på vissa former kan automatiseras. Logikprogrammering är deklarativ, programmeraren anger vad som ska göras inte hur. Ett logikprogram består av en formulering av problemet man vill ha löst på en predikatlogisk form. (Wikipedia)",
+    "th": "การเขียนโปรแกรมเชิงตรรกะ (อังกฤษ: Logic programming) เป็นแนวทางการเขียนโปรแกรม (programming paradigm) แบบหนึ่ง โดยกำหนดเซตคุณลักษณะ (attribute) ของคำตอบ แทนที่จะกำหนดขั้นตอนที่ทำให้ได้คำตอบ ภาษาโปรแกรมสำหรับการเขียนโปรแกรมเชิงตรรกะที่ใช้อย่างกว้างขวาง คือ ภาษาโปรล็อก (Prolog) อีกภาษาหนึ่งที่ใช้ในเชิงการค้า คือ ภาษาเมอร์คิวรี (Mercury) การเขียนโปรแกรมแบบนี้มีหลักการคือ ความจริง + กฎ = ผลลัพธ์ หลักการอื่นที่แตกต่างให้ดู การเขียนโปรแกรมตรรกะเชิงอุปนัย (Inductive logic programming). (จากวิกิพีเดีย สารานุกรมเสรี)",
+    "tr": "Mantık programlama veya mantıksal programlama, belli bir program diline bağlı kalmaksızın mantıksal tanımlarla yapılmak istenilen, mantıksal algoritma açılımının kullanıcı tarafından bilgisayar ortamında tanımlanması esasına dayanan bir mantık çözümleme yardımlayıcısıdır. (Vikipedi)",
+    "zh": "邏輯編程（逻辑程序设计）是種編程典範，它設定答案須符合的規則來解決問題，而非設定步驟來解決問題。(Wikipedia)"
+  },
+  "domain": "research",
+  "icon": "school",
+  "keywords": ["logic programming"],
+  "label": {
+    "ar": "برمجة منطقية",
+    "de": "Logische Programmierung",
+    "en": "Logic Programming",
+    "es": "Programación Lógica",
+    "fr": "Programmation Logique",
+    "he": "תכנות לוגי",
+    "it": "Programmazione Logica",
+    "ja": "論理プログラミング",
+    "ko": "논리형 프로그래밍",
+    "pt": "Programação Lógica",
+    "ru": "Логическое программирование",
+    "sv": "Logikprogrammering",
+    "th": "การเขียนโปรแกรมเชิงตรรกะ",
+    "tr": "Mantık Programlama",
+    "vi": "Lập Trình Logic",
+    "zh": "邏輯編程"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "برمجة منطقية",
+    "de": "Logische Prog.",
+    "en": "Logic Prog.",
+    "es": "Prog. Lógica",
+    "fr": "Prog. Logique",
+    "he": "תכנות לוגי",
+    "it": "Prog. Logica",
+    "ja": "論理プログラミング",
+    "ko": "논리형 프로그래밍",
+    "pt": "Prog. Lógica",
+    "ru": "Логическое прог.",
+    "sv": "Logikprog.",
+    "th": "การเขียนโปรแกรมเชิงตรรกะ",
+    "tr": "Mantık Prog.",
+    "vi": "Lập Trình Logic",
+    "zh": "邏輯編程"
+  },
+  "wikipedia_id": {
+    "ar": "برمجة_منطقية",
+    "de": "Logische_Programmierung",
+    "en": "Logic_programming",
+    "es": "Programación_lógica",
+    "fr": "Programmation_logique",
+    "he": "תכנות_לוגי",
+    "it": "Programmazione_logica",
+    "ja": "論理プログラミング",
+    "ko": "논리형_프로그래밍",
+    "pt": "Programação_lógica",
+    "ru": "Логическое_программирование",
+    "sv": "Logikprogrammering",
+    "th": "การเขียนโปรแกรมเชิงตรรกะ",
+    "tr": "Mantık_programlama",
+    "vi": "Lập_trình_logic",
+    "zh": "邏輯編程"
+  }
+}, {
+  "id": "markov chain",
+  "aliases": {
+    "en": ["Markov chain", "Markov chains", "discrete-time Markov chain", "DTMC"],
+    "fr": ["Chaine de Markov", "Chaines de Markov", "Chaîne de Markov", "Chaînes de Markov"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "machine learning", "statistics"],
+  "label": {
+    "en": "Markov chain",
+    "fr": "Chaîne de Markov"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Markov chain",
+    "fr": "Chaîne de Markov"
+  },
+  "wikipedia_id": {
+    "en": "Markov_chain"
+  }
+}, {
+  "id": "meta-interpretive learning",
+  "aliases": {
+    "en": ["meta-interpretive learning", "metainterpretive learning"],
+    "fr": ["apprentissage méta-interprétatif"]
+  },
+  "description": {
+    "en": "",
+    "fr": "Apprentissage méta-interprétatif, de l'anglais Meta-interpretive learning (MIL)."
+  },
+  "domain": "research",
+  "icon": "school",
+  "keywords": ["automatic programming", "logic programming"],
+  "label": {
+    "en": "Meta-interpretive learning (MIL)",
+    "fr": "Apprentissage méta-interprétatif"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "MIL",
+    "fr": "MIL"
+  }
+}, {
+  "id": "mobile application development",
+  "aliases": {
+    "en": ["Mobile development", "mobile application development", "mobile appication developer", "Mobile dev", "Mobile devices", "Mobile device"],
+    "fr": ["développement sur mobile", "développement mobile", "développement d'applications mobiles", "applications mobiles", "applications sur mobiles", "application sur mobile"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["mobile", "mobile development", "android", "ios", "user interface", "embedded device", "internet of things"],
+  "label": {
+    "en": "Mobile application development",
+    "fr": "Développement d'application sur mobile"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Mobile development",
+    "fr": "Développement mobile"
+  },
+  "wikipedia_id": {
+    "en": "Mobile_application_development"
+  }
+}, {
+  "id": "monte carlo method",
+  "aliases": {
+    "en": ["MonteCarlo", "Monte Carlo", "Monte Carlo method", "Monte Carlo methods", "Monte Carlo simulation", "Monte Carlo Sampling"],
+    "fr": ["Méthode Monte Carlo", "Méthodes Monte Carlo", "Méthode de Monte Carlo", "Simulation de Monte Carlo"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Class of simulation algorithms based on random sampling",
+    "fr": "Classe d'algorithmes de simulation basés sur l'échantillonage aléatoire"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "machine learning", "simulation", "stochastic process", "stochastic simulation", "random sampling", "sampling", "modeling"],
+  "label": {
+    "en": "Monte Carlo method",
+    "fr": "Méthode Monte Carlo"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Monte Carlo",
+    "fr": "Monte Carlo"
+  },
+  "wikipedia_id": {
+    "en": "Monte_Carlo_method"
+  }
+}, {
+  "id": "multiple factor analysis",
+  "aliases": {
+    "en": ["multiple factor analysis", "MFA"],
+    "fr": ["analyse factorielle multiple", "AFM"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA", "factor analysis"],
+  "label": {
+    "en": "Multiple factor analysis",
+    "fr": "Analyse factorielle multiple"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "MFA (stats)",
+    "fr": "AFM (stats)"
+  },
+  "wikipedia_id": {
+    "en": "Multiple_factor_analysis",
+    "fr": "Analyse_factorielle_multiple"
+  }
+}, {
+  "id": "multiple correspondence analysis",
+  "aliases": {
+    "en": ["multiple correspondence analysis", "MCA"],
+    "fr": ["analyse des correspondances multiples", "ACM"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA"],
+  "label": {
+    "en": "Multiple correspondence analysis",
+    "fr": "Analyse des correspondances multiples"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "MCA (stats)",
+    "fr": "ACM (stats)"
+  },
+  "wikipedia_id": {
+    "en": "Multiple_correspondence_analysis",
+    "fr": "Analyse_des_correspondances_multiples"
+  }
+}, {
+  "id": "mysql",
+  "aliases": {
+    "ar": ["ماي إس كيو إل"],
+    "en": ["mysql", "mysql server", "mysqlserver", "mysql database", "mysqldb", "mysql db"],
+    "fr": ["mysql", "base de données mysql", "bdd mysql", "administration mysql"]
+  },
+  "description": {
+    "ar": "",
+    "en": "MySQL is a free, open-source relational database management system (RDBMS), supporting the SQL language.",
+    "fr": "MySQL est une base de données relationnelle libre (RDBMS), supportant le langage SQL."
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["programming", "programming language", "development", "software development", "database", "databases", "relational database", "relational databases", "SQL", "SQL Database", "SQL Databases"],
+  "label": {
+    "ar": "ماي إس كيو إل",
+    "en": "MySQL",
+    "fr": "MySQL"
+  },
+  "tag": {
+    "ar": "MySQL",
+    "en": "MySQL",
+    "fr": "MySQL"
+  },
+  "wikipedia_id": {
+    "ar": "ماي_إس_كيو_إل",
+    "en": "MySQL",
+    "fr": "MySQL"
+  }
+}, {
+  "id": "natural language processing",
+  "aliases": {
+    "en": ["Natural Language Processing"],
+    "fr": ["Traitement du Language Naturel"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "datamining", "text mining", "natural language processing"],
+  "label": {
+    "en": "Natural Language Processing",
+    "fr": "Traitement du Language Naturel"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Natural Language Processing",
+    "fr": "Traitement du Language Naturel"
+  },
+  "wikipedia_id": {
+    "en": "Natural_language_processing"
+  }
+}, {
+  "id": "neuro-linguistic programming",
+  "aliases": {
+    "en": ["Neuro-linguistic programming", "NLP methodology"],
+    "fr": ["Programmation neuro-linguistique", "Méthode NLP", "Méthodes NLP"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "pseudoscience",
+  "icon": "school",
+  "keywords": ["self development", "hypnosis"],
+  "label": {
+    "en": "Neuro-linguistic programming",
+    "fr": "Programmation neuro-linguistique"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Neuro-linguistic programming",
+    "fr": "Programmation neuro-linguistique"
+  },
+  "wikipedia_id": {
+    "en": "Neuro-linguistic_programming"
+  }
+}, {
+  "id": "nodejs",
+  "aliases": {
+    "en": ["Node.js", "Node", "NodeJS", "iojs", "IO.JS"],
+    "fr": ["Développeur Node"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Node",
+    "fr": "Node"
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["javascript", "web development"],
+  "label": {
+    "en": "Node.js",
+    "fr": "Node.js"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Node",
+    "fr": "Node"
+  },
+  "wikipedia_id": {
+    "en": "Node.js"
+  }
+}, {
+  "id": "php programming language",
+  "aliases": {
+    "en": ["PHP 5", "PHP 6", "PHP 7", "PHP 8", "PHP5", "PHP6", "PHP7", "PHP8"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["php", "web development"],
+  "label": {
+    "en": "PHP",
+    "fr": "PHP"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "PHP",
+    "fr": "PHP"
+  }
+}, {
+  "id": "price modeling",
+  "aliases": {
+    "en": ["pricing", "price estimate"],
+    "fr": ["estimation des prix"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "marketing",
+  "icon": "shopping_cart",
+  "keywords": ["marketing", "price modeling"],
+  "label": {
+    "en": "Price modeling",
+    "fr": "Price modeling"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Price modeling",
+    "fr": "Estimation des prix"
+  }
+}, {
+  "id": "principal component analysis",
+  "aliases": {
+    "en": ["PCA", "Principal component analysis"],
+    "fr": ["transformation de Karhunen–Loève", "KLT", "ACP", "Analyse en composantes principales", "Analyse en composante principale", "Analyses en composantes principales", "Analyses en composante principale"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "Principal component analysis (PCA)",
+    "fr": "Analyse en composantes principales (de l'anglais Principal component analysis) est une méthode d'analyse des données consistant à transformer des variables corrélées entre elles en nouvelles variables décorrélées."
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA"],
+  "label": {
+    "en": "Principal component analysis",
+    "fr": "Analyse en composantes principales"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "PCA",
+    "fr": "ACP"
+  }
+}, {
+  "id": "project management",
+  "aliases": {
+    "ar": ["إدارة المشاريع"],
+    "en": ["project management", "project manager", "IT project manager", "web project management"],
+    "fr": ["gestion de projet", "gestion de projet IT", "gestion de projet web", "management de projet"],
+    "it": ["Project management", "gestione di progetto"],
+    "ja": ["プロジェクトマネジメント"],
+    "ro": ["Managementul proiectelor"],
+    "sv": ["Projektledning"],
+    "vi": ["Quản lý dự án"],
+    "zh": ["项目管理"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "ar": " هو تخصّص يتعلّق بتنظيم وإدارة الموارد، مثل الموارد البشريّة، بالطريقة التي تمكّن إنجاز المشروع باحترام مضمونه المحدد وبمراعاة عوامل الجودة والتوقيت والتكلفة.",
+    "en": "",
+    "fr": "",
+    "it": "gestione di progetto",
+    "ja": "とはプロジェクトを成功裏に完了させることを目指して行われる活動のことである。これにはプロジェクトを構成する各活動の計画立案、日程表の作成、および進捗管理が含まれる。 (Wikipedia)",
+    "ro": "Managementul proiectelor constă în aplicarea cunoștințelor, capabilităților, instrumentelor și tehnicilor specifice pentru activitățile unui proiect, care au obiective, scopuri și cerințe definite, referitoare la timp, costuri, calitate și parametri de performanță, activități considerate ca importante și adecvate pentru finanțare. (Wikipedia)",
+    "sv": "",
+    "vi": "",
+    "zh": "「项目管理是運用管理的知識、工具、和技術於项目活動上，來達成解決项目的問題或達成專案的需求。」所謂管理包含領導、組織、用人、計劃及控制等五項主要工作。(Wikipedia)"
+  },
+  "domain": "management",
+  "icon": "work",
+  "keywords": ["management", "project management", "project manager"],
+  "label": {
+    "ar": "إدارة المشاريع",
+    "en": "Project management",
+    "fr": "Gestion de projet",
+    "it": "Project management",
+    "ja": "プロジェクトマネジメント",
+    "ro": "Managementul proiectelor",
+    "sv": "Projektledning",
+    "vi": "Quản lý dự án",
+    "zh": "项目管理"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "إدارة المشاريع",
+    "en": "Project management",
+    "fr": "Gestion de projet",
+    "it": "Project management",
+    "ja": "プロジェクトマネジメント",
+    "ro": "Managementul proiectelor",
+    "sv": "Projektledning",
+    "vi": "Quản lý dự án",
+    "zh": "项目管理"
+  },
+  "wikipedia_id": {
+    "ar": "إدارة_المشاريع",
+    "en": "Project_management",
+    "fr": "Gestion_de_projet",
+    "it": "Project_management",
+    "ja": "プロジェクトマネジメント",
+    "ro": "Managementul_proiectelor",
+    "sv": "Projektledning",
+    "vi": "Quản_lý_dự_án",
+    "zh": "项目管理"
+  }
+}, {
+  "id": "python programming",
+  "aliases": {
+    "en": ["Python", "python3", "python 3", "Python 2", "Jython"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "development",
+  "icon": "developer_board",
+  "keywords": ["data science", "programming", "programming language", "development", "software development"],
+  "label": {
+    "en": "Python",
+    "fr": "Python"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Python",
+    "fr": "Python"
+  }
+}, {
+  "id": "cpp",
+  "aliases": {
+    "en": ["Cpp", "C++"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "development",
+  "icon": "developer_board",
+  "keywords": ["data science", "programming", "programming language", "development", "software development","Functional programming", "c++", "cpp"],
+  "label": {
+    "en": "C++",
+    "fr": "C++"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "C++",
+    "fr": "C++"
+  }
+}, {
+  "id": "haskell programming",
+  "aliases": {
+    "en": ["Haskell"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "development",
+  "icon": "developer_board",
+  "keywords": ["data science", "programming", "programming language", "development", "software development","Functional programming", "haskell"],
+  "label": {
+    "en": "Haskell",
+    "fr": "Haskell"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Haskell",
+    "fr": "Haskell"
+  }
+},{
+  "id": "scala programming",
+  "aliases": {
+    "en": ["Scala", "Scalaz"]
+  },
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "development",
+  "icon": "developer_board",
+  "keywords": ["data science", "programming", "programming language", "development", "software development","scala"],
+  "label": {
+    "en": "Scala",
+    "fr": "Scala"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Scala",
+    "fr": "Scala"
+  }
+}, {
+  "id": "random forests",
+  "aliases": {
+    "cs": ["Náhodný les"],
+    "en": ["random forests", "random forest", "Randomized Trees", "randomized tree"],
+    "es": ["Selvas Aleatorias"],
+    "fr": ["forêt aléatoire", "forêts aléatoires"],
+    "it": ["Foresta casuale"],
+    "ko": ["랜덤 포레스트"],
+    "ru": ["случайный лес"],
+    "zh": ["随机森林"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "cs": "Náhodný les",
+    "en": "Random forests",
+    "es": "Selvas Aleatorias",
+    "fr": "Forêts aléatoires",
+    "it": "Foresta casuale",
+    "ko": "랜덤 포레스트",
+    "ru": "случайный лес",
+    "zh": "随机森林"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "machine learning"],
+  "label": {
+    "cs": "Náhodný les",
+    "en": "Random forests",
+    "es": "Selvas Aleatorias",
+    "fr": "Forêts aléatoires",
+    "it": "Foresta casuale",
+    "ko": "랜덤 포레스트",
+    "ru": "случайный лес",
+    "zh": "随机森林"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "cs": "Náhodný les",
+    "en": "Random forests",
+    "es": "Selvas Aleatorias",
+    "fr": "Forêts aléatoires",
+    "it": "Foresta casuale",
+    "ko": "랜덤 포레스트",
+    "ru": "случайный лес",
+    "zh": "随机森林"
+  }
+}, {
+  "id": "reactjs",
+  "aliases": {
+    "en": ["React", "ReactJS", "React JS", "Facebook React", "React.js"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["javascript", "web development"],
+  "label": {
+    "en": "React",
+    "fr": "React"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "React",
+    "fr": "React"
+  },
+  "wikipedia_id": {
+    "en": "React_(JavaScript_library)"
+  }
+}, {
+  "id": "rejection sampling",
+  "aliases": {
+    "en": ["rejection sampling", "acceptance-rejection method"],
+    "fr": ["méthode de rejet"],
+    "ru": ["Выборка с отклонением"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "A technique used to generate observations from a distribution.",
+    "fr": "Méthode utilisé dans le domaine des probabilités, afin d'engendrer indirectement une variable aléatoire _X_, de densité de probabilité _f_, lorsqu'on ne sait pas simuler directement la loi de densité de probabilité _f_. (Wikipedia)",
+    "ru": "метод, используемый для семплирования сложных вероятностных распределений. (Wikipedia)"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "machine learning", "stochastic process", "sampling", "modeling"],
+  "label": {
+    "en": "Rejection sampling",
+    "fr": "Méthode de rejet",
+    "ru": "Выборка с отклонением"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Rejection sampling",
+    "fr": "Méthode de rejet",
+    "ru": "Выборка с отклонением"
+  },
+  "wikipedia_id": {
+    "en": "Rejection_sampling",
+    "fr": "Méthode_de_rejet",
+    "ru": "Выборка_с_отклонением"
+  }
+}, {
+  "id": "risk analysis",
+  "aliases": {
+    "be": ["аналіз рызыкі"],
+    "bg": ["анализ на риска"],
+    "bn": ["ঝুঁকি বিশ্লেষণ"],
+    "cs": ["analýza rizik"],
+    "da": ["risikoanalyse"],
+    "de": ["risikoanalyse"],
+    "el": ["ανάλυση κινδύνου"],
+    "en": ["Risk analysis", "Risks analysis", "Risk modeling"],
+    "es": ["análisis de riesgo"],
+    "fi": ["riskianalyysi"],
+    "fr": ["analyse de risques", "gestion des risques", "analyse des risques", "analyse de risque"],
+    "he": ["ניתוח סיכונים"],
+    "hi": ["जोखिम विश्लेषण"],
+    "hu": ["kockázatelemzés"],
+    "id": ["analisis risiko"],
+    "is": ["áhættugreining"],
+    "it": ["analisi del rischio"],
+    "ja": ["危険分析"],
+    "jv": ["analisis risiko"],
+    "ko": ["위험 분석"],
+    "ln": ["rizikos analizė"],
+    "lt": ["riska analīze"],
+    "mg": ["mety famakafakana"],
+    "ml": ["റിസ്ക് വിശകലനം"],
+    "ms": ["analisis risiko"],
+    "nl": ["risico analyse"],
+    "no": ["risikoanalyse"],
+    "pa": ["ਖਤਰੇ ਨੂੰ ਵਿਸ਼ਲੇਸ਼ਣ"],
+    "pl": ["analiza ryzyka"],
+    "pt": ["análise de risco"],
+    "ro": ["analiza de risc"],
+    "ru": ["анализ риска"],
+    "sl": ["analiza tveganja"],
+    "sv": ["riskanalys"],
+    "th": ["การวิเคราะห์ความเสี่ยง"],
+    "tr": ["risk analizi"],
+    "vi": ["phân tích rủi ro"],
+    "yi": ["ריזיקירן אַנאַליסיס"],
+    "zh": ["风险分析"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "data science",
+  "icon": "security",
+  "keywords": ["risk analysis"],
+  "label": {
+    "be": "аналіз рызыкі",
+    "bg": "анализ на риска",
+    "bn": "ঝুঁকি বিশ্লেষণ",
+    "cs": "analýza rizik",
+    "da": "risikoanalyse",
+    "de": "risikoanalyse",
+    "el": "ανάλυση κινδύνου",
+    "en": "Risk modeling",
+    "es": "análisis de riesgo",
+    "fi": "riskianalyysi",
+    "fr": "Analyse des risques",
+    "he": "ניתוח סיכונים",
+    "hi": "जोखिम विश्लेषण",
+    "hu": "kockázatelemzés",
+    "id": "analisis risiko",
+    "is": "áhættugreining",
+    "it": "analisi del rischio",
+    "ja": "危険分析",
+    "jv": "analisis risiko",
+    "ko": "위험 분석",
+    "ln": "rizikos analizė",
+    "lt": "riska analīze",
+    "mg": "mety famakafakana",
+    "ml": "റിസ്ക് വിശകലനം",
+    "ms": "analisis risiko",
+    "nl": "risico analyse",
+    "no": "risikoanalyse",
+    "pa": "ਖਤਰੇ ਨੂੰ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "pl": "analiza ryzyka",
+    "pt": "análise de risco",
+    "ro": "analiza de risc",
+    "ru": "анализ риска",
+    "sl": "analiza tveganja",
+    "sv": "riskanalys",
+    "th": "การวิเคราะห์ความเสี่ยง",
+    "tr": "risk analizi",
+    "vi": "phân tích rủi ro",
+    "yi": "ריזיקירן אַנאַליסיס",
+    "zh": "风险分析"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "be": "аналіз рызыкі",
+    "bg": "анализ на риска",
+    "bn": "ঝুঁকি বিশ্লেষণ",
+    "cs": "analýza rizik",
+    "da": "risikoanalyse",
+    "de": "risikoanalyse",
+    "el": "ανάλυση κινδύνου",
+    "en": "Risk modeling",
+    "es": "análisis de riesgo",
+    "fi": "riskianalyysi",
+    "fr": "Analyse des risques",
+    "he": "ניתוח סיכונים",
+    "hi": "जोखिम विश्लेषण",
+    "hu": "kockázatelemzés",
+    "id": "analisis risiko",
+    "is": "áhættugreining",
+    "it": "analisi del rischio",
+    "ja": "危険分析",
+    "jv": "analisis risiko",
+    "ko": "위험 분석",
+    "ln": "rizikos analizė",
+    "lt": "riska analīze",
+    "mg": "mety famakafakana",
+    "ml": "റിസ്ക് വിശകലനം",
+    "ms": "analisis risiko",
+    "nl": "risico analyse",
+    "no": "risikoanalyse",
+    "pa": "ਖਤਰੇ ਨੂੰ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "pl": "analiza ryzyka",
+    "pt": "análise de risco",
+    "ro": "analiza de risc",
+    "ru": "анализ риска",
+    "sl": "analiza tveganja",
+    "sv": "riskanalys",
+    "th": "การวิเคราะห์ความเสี่ยง",
+    "tr": "risk analizi",
+    "vi": "phân tích rủi ro",
+    "yi": "ריזיקירן אַנאַליסיס",
+    "zh": "风险分析"
+  },
+  "wikipedia_id": {
+    "en": "Risk_analysis"
+  }
+}, {
+  "id": "sass",
+  "aliases": {
+    "en": ["SASS", "SCSS", "libsass", "SassScript"]
+  },
+  "description": {
+    "en": "A stylesheet language interpreted into Cascading Style Sheets (CSS)",
+    "fr": "Langage de feuilles de style en cascade, interprété en CSS."
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["programming", "programming language", "development", "software development"],
+  "label": {
+    "en": "SASS",
+    "fr": "SASS"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "SASS",
+    "fr": "SASS"
+  },
+  "wikipedia": {
+    "en": "Sass_(stylesheet_language)",
+    "fr": "Sass_(langage)",
+    "zh": "Sass_(样式表语言)"
+  }
+}, {
+  "id": "scikit-learn",
+  "aliases": {
+    "en": ["Scikit-Learn"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "datamining"],
+  "label": {
+    "en": "Scikit"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Scikit"
+  },
+  "wikipedia_id": {
+    "en": "Scikit-learn"
+  }
+}, {
+  "id": "social network analysis",
+  "aliases": {
+    "en": ["Social network analysis", "Social networks analysis", "SNA"],
+    "fr": ["analyse de réseaux sociaux", "analyse des réseaux sociaux", "analyse du graphe social"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "social network analysis", "sna", "graph analysis", "network analysis", "complex network analyis"],
+  "label": {
+    "en": "Social network analysis",
+    "fr": "Social network analysis"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "SNA",
+    "fr": "SNA"
+  }
+}, {
+  "id": "soft independent modelling of class analogies",
+  "aliases": {
+    "en": ["Soft independent modelling of class analogies", "SIMCA"],
+    "fr": ["SIMCA"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "a statistical method for supervised classification of data. The method requires a training data set consisting of samples (or objects) with a set of attributes and their class membership. The term soft refers to the fact the classifier can identify samples as belonging to multiple classes and not necessarily producing a classification of samples into non-overlapping classes. (Wikipedia)"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "PCA", "chemometrics", "spectroscopic data analysis"],
+  "label": {
+    "en": "SIMCA",
+    "fr": "SIMCA"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "SIMCA",
+    "fr": "SIMCA"
+  },
+  "wikipedia_id": {
+    "en": "Soft_independent_modelling_of_class_analogies"
+  }
+}, {
+  "id": "speech recognition",
+  "aliases": {
+    "en": ["Speech recognition"],
+    "fr": ["Reconnaissance vocale", "Reconnaissance automatique de la parole"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "machine learning", "statistics"],
+  "label": {
+    "en": "Speech recognition",
+    "fr": "Reconnaissance automatique de la parole"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Speech recognition",
+    "fr": "Reconnaissance vocale"
+  },
+  "wikipedia_id": {
+    "en": "Speech_recognition",
+    "fr": "Reconnaissance_automatique_de_la_parole"
+  }
+}, {
+  "id": "support vector machines",
+  "aliases": {
+    "ar": ["شعاع الدعم الآلي"],
+    "en": ["SVM", "support vector machine", "support vector machines", "SVMs", "support vector networks"],
+    "fr": ["Machine à vecteurs de support", "séparateurs à vaste marge"],
+    "he": ["מכונת וקטורים תומכים"],
+    "it": ["macchine a vettori di supporto", "macchine kernel"],
+    "ja": ["サポートベクターマシン"],
+    "pt": ["Máquina de vetores de suporte"],
+    "ru": ["Метод опорных векторов"],
+    "vi": ["Máy vectơ hỗ trợ"],
+    "zh": ["支持向量机"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": "Ensemble de techniques d'apprentissage supervisé destinées à résoudre des problèmes de discrimination et de régression. Les SVM sont une généralisation des classifieurs linéaires. (Wikipedia)",
+    "ja": "サポートベクターマシンは、現在知られている手法の中でも認識性能が優れた学習モデルの一つである。サポートベクターマシンが優れた認識性能を発揮することができる理由は、未学習データに対して高い識別性能を得るための工夫があるためである。(Wikipedia)",
+    "pt": "Uma máquina de vetores de suporte (SVM, do inglês: support vector machine) é um conceito na ciência da computação para um conjunto de métodos do aprendizado supervisionado que analisam os dados e reconhecem padrões, usado para classificação e análise de regressão. O SVM padrão toma como entrada um conjunto de dados e prediz, para cada entrada dada, qual de duas possíveis classes a entrada faz parte, o que faz do SVM um classificador linear binário não probabilístico. (Wikipedia)",
+    "ru": "Метод опорных векторов (англ. SVM, support vector machine) — набор схожих алгоритмов обучения с учителем, использующихся для задач классификации и регрессионного анализа. Принадлежит к семейству линейных классификаторов, может также рассматриваться как специальный случай регуляризации по Тихонову. Особым свойством метода опорных векторов является непрерывное уменьшение эмпирической ошибки классификации и увеличение зазора, поэтому метод также известен как метод классификатора с максимальным зазором. (Wikipedia)",
+    "vi": "Máy vectơ hỗ trợ (SVM - viết tắt tên tiếng Anh support vector machine) là một khái niệm trong thống kê và khoa học máy tính cho một tập hợp các phương pháp học có giám sát liên quan đến nhau để phân loại và phân tích hồi quy. SVM dạng chuẩn nhận dữ liệu vào và phân loại chúng vào hai lớp khác nhau. Do đó SVM là một thuật toán phân loại nhị phân. (Wikipedia)",
+    "zh": "支持向量机（英语：Support Vector Machine，常简称為SVM）是一种監督式學習的方法，可广泛地应用于统计分类以及回归分析。支持向量机属于一般化线性分类器，也可以被认为是提克洛夫规范化（Tikhonov Regularization）方法的一个特例。这族分类器的特点是他们能够同时最小化经验误差与最大化几何边缘区，因此支持向量机也被称为最大边缘区分类器。(Wikipedia)"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "machine learning", "clustering", "SVM"],
+  "label": {
+    "ar": "شعاع الدعم الآلي",
+    "en": "Support vector machine",
+    "fr": "Machine à vecteurs de support",
+    "he": "מכונת וקטורים תומכים",
+    "it": "Macchine a vettori di supporto",
+    "ja": "サポートベクターマシン",
+    "pt": "Máquina de vetores de suporte",
+    "ru": "Метод опорных векторов",
+    "vi": "Máy vectơ hỗ trợ",
+    "zh": "支持向量机"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "SVM",
+    "fr": "SVM",
+    "he": "SVM",
+    "ja": "SVM",
+    "vi": "SVM",
+    "zh": "支持向量机"
+  },
+  "wikipedia_id": {
+    "en": "Support_vector_machine",
+    "fr": "Machine_à_vecteurs_de_support",
+    "he": "מכונת_וקטורים_תומכים",
+    "it": "Macchine_a_vettori_di_supporto",
+    "ja": "サポートベクターマシン",
+    "pt": "Máquina_de_vetores_de_suporte",
+    "ru": "Метод_опорных_векторов",
+    "vi": "Máy_vectơ_hỗ_trợ",
+    "zh": "支持向量机"
+  }
+}, {
+  "id": "symfony",
+  "aliases": {
+    "ar": ["سيمفوني"],
+    "en": ["Symfony 2", "Symfony 3", "Symfony Framework"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["php", "web development"],
+  "label": {
+    "ar": "سيمفوني",
+    "en": "Symfony",
+    "fr": "Symfony"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "سيمفوني",
+    "en": "Symfony",
+    "fr": "Symfony"
+  },
+  "wikipedia_id": {
+    "ar": "سيمفوني",
+    "en": "Symfony",
+    "fr": "Symfony"
+  }
+}, {
+  "id": "tableau software",
+  "aliases": {
+    "en": ["Tableau 9", "Tableau 9.1", "Tableau 9.2", "Tableau 9.3", "Tableau 9.4", "Tableau software"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "datamining", "visualization"],
+  "label": {
+    "en": "Tableau Software",
+    "fr": "Tableau Software"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Tableau",
+    "fr": "Tableau"
+  },
+  "wikipedia_id": {
+    "en": "Tableau_Software",
+    "fr": "Tableau_Software"
+  }
+}, {
+  "id": "text mining",
+  "aliases": {
+    "ar": ["تنقيب في النصوص"],
+    "en": ["Text mining"],
+    "es": ["Minería de textos"],
+    "fr": ["Fouille de texte", "Fouille de textes"],
+    "ja": ["テキストマイニング"],
+    "pt": ["Mineração de texto"],
+    "ru": ["Интеллектуальный анализ текста"],
+    "zh": ["文本挖掘"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "pt": "Mineração de texto, conhecida também como mineração de dados textuais e semelhante à análise textual, refere-se ao processo de obtenção de informações importantes de um texto. (Wikipedia)"
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "datamining", "text mining", "nlp", "natural language processing"],
+  "label": {
+    "ar": "تنقيب في النصوص",
+    "en": "Text mining",
+    "es": "Minería de textos",
+    "fr": "Fouille de textes",
+    "ja": "テキストマイニング",
+    "pt": "Mineração de texto",
+    "ru": "Интеллектуальный анализ текста",
+    "zh": "文本挖掘"
+  },
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "تنقيب في النصوص",
+    "en": "Text mining",
+    "es": "Minería de textos",
+    "fr": "Fouille de textes",
+    "ja": "テキストマイニング",
+    "pt": "Mineração de texto",
+    "ru": "Интеллектуальный анализ текста",
+    "zh": "文本挖掘"
+  },
+  "wikipedia_id": {
+    "ar": "تنقيب_في_النصوص",
+    "en": "Text_mining",
+    "es": "Minería_de_textos",
+    "fr": "Fouille_de_textes",
+    "ja": "テキストマイニング",
+    "pt": "Mineração_de_texto",
+    "ru": "Интеллектуальный_анализ_текста",
+    "zh": "文本挖掘"
+  }
+}, {
+  "id": "verilog programming",
+  "aliases": {
+    "en": ["Verilog", "Verilog-A", "VerilogA", "Verilog-AMS", "Verilog/AMS", "OpenVAMS"]
+  },
+  "description": {
+    "en": "Hardware description language (HDL) used to model electronic systems.",
+    "fr": "Langage de description matériel de circuits logiques (HDL, Hardware Description Language)."
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["circuit design", "electronic circuit design", "integrated circuit design", "PCB"],
+  "label": {
+    "en": "Verilog",
+    "fr": "Verilog"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Verilog",
+    "fr": "Verilog"
+  },
+  "wikipedia_id": {
+    "en": "Verilog",
+    "fr": "Verilog"
+  }
+}, {
+  "id": "web design",
+  "aliases": {
+    "ar": ["تصميم مواقع الويب"],
+    "de": ["Webdesign"],
+    "en": ["web design", "webdesign"],
+    "es": ["diseño web"],
+    "fr": ["design web", "design de site internet", "design de site web", "conception de site internet", "conception de site web"],
+    "he": ["יצוב אתר אינטרנט"],
+    "ja": ["ウェブデザイン"],
+    "ko": ["웹 디자인"],
+    "no": ["webdesign"],
+    "pt": ["web design"],
+    "ru": ["Веб-дизайн"],
+    "vi": ["Thiết kế web", "thiết kế website"],
+    "zh": ["网页设计"]
+  },
+  "description": {
+    "en": "",
+    "es": "Actividad que consiste en la planificación, diseño e implementación de sitios web. (Wikipedia)",
+    "ja": "ウェブデザイン（英: Web design）は、デザインの一種。ウェブページやウェブサイトにおける視覚面（意匠・要素配置等）に対し、整理・再構築・意匠等を施すことである (Wikipedia)",
+    "no": "Webdesign er design av innhold for verdensveven (en. World Wide Web). Termen henviser vanligvis til den brukergrensesnittsutviklingen ved hjelp av bilder, CSS og XHTML eller HTML. (Wikipedia)",
+    "pt": "O Web Design é uma extensão da prática do design gráfico, onde o foco do projeto é a criação de web sites e documentos disponíveis no ambiente da World Wide Web. (Wikipedia)",
+    "ru": "Веб-дизайн (от англ. Web design) — отрасль веб-разработки и разновидность дизайна, в задачи которой входит проектирование пользовательских веб-интерфейсов для сайтов или веб-приложений. (Материал из Википедии)",
+    "vi": "Thiết kế web hay thiết kế website đơn giản là công việc tạo một trang web cho cá nhân, công ty, doanh nghiệp hoặc tổ chức. Có 2 phương thức chính để thiết kế Web đó là: thiết kế Web tĩnh và thiết kế Web động. (Bách khoa toàn thư mở Wikipedia)",
+    "zh": "网页设计是指使用标识语言（markup language)，通过一系列设计、建模、和执行的过程将电子格式的信息通过互联网传输，最终以图形用户界面（GUI）的形式被用户所浏览。(Wikipedia)"
+  },
+  "domain": "graphic design",
+  "icon": "invert_colors",
+  "keywords": ["web development", "web design", "design"],
+  "label": {
+    "ar": "تصميم مواقع الويب",
+    "de": "Webdesign",
+    "en": "Web Design",
+    "es": "Diseño Web",
+    "fr": "Design Web",
+    "he": "יצוב אתר אינטרנט",
+    "ja": "ウェブデザイン",
+    "ko": "웹 디자인",
+    "no": "Webdesign",
+    "pt": "Web Design",
+    "ru": "Веб-дизайн",
+    "vi": "Thiết Kế Web",
+    "zh": "网页设计"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "ar": "تصميم مواقع الويب",
+    "de": "Webdesign",
+    "en": "Web Design",
+    "es": "Diseño Web",
+    "fr": "Design Web",
+    "he": "יצוב אתר אינטרנט",
+    "ja": "ウェブデザイン",
+    "ko": "웹 디자인",
+    "no": "Webdesign",
+    "pt": "Web Design",
+    "ru": "Веб-дизайн",
+    "vi": "Thiết Kế Web",
+    "zh": "网页设计"
+  },
+  "wikipedia_id": {
+    "ar": "تصميم_مواقع_الويب",
+    "de": "Webdesign",
+    "en": "Web_design",
+    "es": "Diseño_web",
+    "fr": "Conception_de_site_web",
+    "he": "עיצוב_אתר_אינטרנט",
+    "ja": "ウェブデザイン",
+    "ko": "웹_디자인",
+    "no": "Webdesign",
+    "pt": "Web_design",
+    "ru": "Веб-дизайн",
+    "vi": "Thiết_kế_web",
+    "zh": "网页设计"
+  }
+}, {
+  "id": "web marketing",
+  "aliases": {
+    "en": ["online marketing", "web marketing", "growth hacking", "search engine optimization", "pay-per-click marketing", "landing page optimization", "site design", "e-mail marketing", "mass email marketing", "bulk email marketing", "web analytics", "retargeting"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "management",
+  "icon": "supervisor_account",
+  "keywords": ["marketing", "growth hacking", "email marketing", "web marketing"],
+  "label": {
+    "en": "Web marketing"
+  },
+  "minimum_hits_required": 4,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Web marketing"
+  }
+}, {
+  "id": "weighted principal component analysis",
+  "aliases": {
+    "en": ["Weighted PCA"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": ""
+  },
+  "domain": "data science",
+  "icon": "school",
+  "keywords": ["data science", "statistics", "geometric data analysis", "principal component analysis"],
+  "label": {
+    "en": "Weighted principal component analysis"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "Weighted PCA"
+  },
+  "wikipedia_id": {
+    "en": "Principal_component_analysis#Robustness_.E2.80.93_weighted_PCA"
+  }
+}, {
+  "id": "ios development",
+  "aliases": {
+    "en": ["iOS dev", "Apple swift", "swift development", "objectivec", "objective-c", "swift app", "swift apps", "ios development", "ios developer", "ios plateform", "iphone development", "iphone developer"],
+    "fr": ["développement ios", "développement sur ios", "développement iphone", "développeur ios"]
+  },
+  "case_sensitive": false,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "domain": "software development",
+  "icon": "developer_board",
+  "keywords": ["mobile application development", "software development", "Apple"],
+  "label": {
+    "en": "iOs development",
+    "fr": "Développement iOS"
+  },
+  "minimum_hits_required": 1,
+  "skill_frequency": 0,
+  "skill_occurrences": 0,
+  "tag": {
+    "en": "iOs development",
+    "fr": "Développement iOS"
+  }
+}
+]

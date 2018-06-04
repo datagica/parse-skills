@@ -1,0 +1,21 @@
+{
+  "name": "@datagica/parse-skills",
+  "version": "0.0.2",
+  "description": "Extract skills from text",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julian Bilcke <julian.bilcke@datagica.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datagica/parse-skills.git"
+  },
+  "dependencies": {
+    "@datagica/parse-entities": "^0.2.7"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
